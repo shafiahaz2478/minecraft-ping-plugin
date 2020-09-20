@@ -1,0 +1,10 @@
+name: Ping_plugin
+version: ${project.version}
+main: me.shafi.ping_plugin.Ping_plugin
+api-version: 1.15
+authors: [shafi]
+description: ment for /ping
+commands:
+    ping:
+      description: do /ping to get your ping
+
